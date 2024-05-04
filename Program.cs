@@ -28,8 +28,8 @@ internal class Program
             frame.frame(data1);
             frame.show(data1);
         } */
-        
-        Begin begin = new Begin();
+        Begin begin= new Begin();
+        begin.Run();
         
         
     }
